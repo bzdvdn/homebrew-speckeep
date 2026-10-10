@@ -6,8 +6,8 @@
 class Speckeep < Formula
   desc "Lightweight Spec-Driven Development kit for development agents and humans"
   homepage "https://github.com/bzdvdn/speckeep"
-  url "https://github.com/bzdvdn/speckeep/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "7c648601c562e2635037af00a4119a0a6b10ef12329ab8c1ba113acec0744e21"
+  url "https://github.com/bzdvdn/speckeep/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "ca68a0c58284c496f013b0a41499d0e46a598f4f82533526d73f302762ea3660"
   license "MIT"
 
   depends_on "go" => :build
